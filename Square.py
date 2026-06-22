@@ -7,7 +7,7 @@ t = turtle.Turtle()
 t.speed(5)
 t.pensize(8)
 
-colors = ["#FFB6C1", "#ADD8E6", "#D8BFD8", "#ADD8E6"]
+colors = ["#FFB6C1", "#D8BFD8", "#ADD8E6", "#ADE6B0", "#EDD8A0"]
 
 for color in colors:
     t.pencolor(color)
